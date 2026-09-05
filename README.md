@@ -25,6 +25,7 @@ Participation credential for the youth-centric event, highlighting communication
 
 **7. Y23EC3209 - Academic Record**
 Institutional academic credential related to my B.Tech ECE program (Roll No: Y23EC3209).
+successfully completed my 2 months internship on **Embedded Systems**.
 
 ---
 
